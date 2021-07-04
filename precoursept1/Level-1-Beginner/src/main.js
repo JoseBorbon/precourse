@@ -11,8 +11,8 @@ function addTwo(number) {
 // adds the two inputted numbers together
 // ex: add(5, 10); -> 15
 function add(num1, num2) {
-	//CODE HERE
-    return num1 + num2;
+  //CODE HERE
+  return num1 + num2;
 }
 
 
@@ -20,17 +20,16 @@ function add(num1, num2) {
 // ex: addd(1,2,3); -> 6
 // ex: addd(2,4,2); -> 8
 function addd(value1, value2, value3) {
-	//CODE HERE
-    return value1 + value2 + value3;
+  //CODE HERE
+  return value1 + value2 + value3;
 }
 
 
 // subtracts the second inputted number from the first inputted number
 // ex: subtract(5, 10); -> -5
-function subtract(n1, n2) {
-	//CODE HERE
-    return n1 - n2;
-
+function subtract(num1, num2) {
+  //CODE HERE
+  return num1 - num2;
 }
 
 
